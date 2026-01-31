@@ -9,6 +9,3 @@ And also all the book data will store at the database for easy to add, edit and 
 ## DataBase:
 ![Database](/db.PNG)
 
-## How to run:
-Download [bookstore](https://github.com/weixiong15/PHP_Basic_BookStore_Website/tree/master/bookstore) folder and upload these file to your server or you can download an application called
-[XAMPP](https://www.apachefriends.org/index.html) or other. 
